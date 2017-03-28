@@ -1,5 +1,5 @@
 package kr.hs.emirim.ganggangi.hellogithub;
-
+// dirkd
 import android.content.DialogInterface;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
